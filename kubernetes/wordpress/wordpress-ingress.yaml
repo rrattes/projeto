@@ -6,7 +6,7 @@ metadata:
   name: wordpress
 spec:
   rules:
-  - host: wordpress.44.196.199.63.sslip.io
+  - host: ipcore.com.br
     http:
       paths:
       - backend:
